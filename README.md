@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<a href="https://youtube.com/c/Nazedev">
+<a href="https://youtube.com/AviNethunter">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f7078&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Avishka_Shavinda;Welcome+to+my+GitHub+❄️"
             alt="Typing SVG"
@@ -16,29 +16,29 @@
 
 
 <h6 align="center">Visitor's Count :</h6>
-<p align="center"><img src="https://count.getloli.com/get/@AvishkaShavinda-github-readme?theme=rule34" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@Avi-3a-github-readme?theme=rule34" /></p>
 <p align="center">
 
 
 
 <div align="center">
   <h6>🏆 GitHub Trophies</h6>
-  <img src="https://github-profile-trophy.vercel.app/?username=AvishkaShavinda&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Avi-3a&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 <div align="center">
   <h6>📈 Contribution Graph</h6>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvishkaShavinda&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi-3a&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
 </div>
 
-<img src="https://github-stats-alpha.vercel.app/api?username=AvishkaShavinda&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+<img src="https://github-stats-alpha.vercel.app/api?username=Avi-3a&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
 
 - 📫 How to reach me **shavindaAvishkaShavinda@gmail.com**
 
 - ⚡ Fun fact **I THINK IM FUNNY**
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/AvishkaShavinda"><img src="https://github-readme-stats.vercel.app/api?username=AvishkaShavinda&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/Avi-3a"><img src="https://github-readme-stats.vercel.app/api?username=AvishkaShavinda&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/AvishkaShavinda"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/AvishkaShavinda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaShavinda&theme=chartreuse-dark&layout=compact"></a></p> 
 
